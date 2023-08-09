@@ -69,3 +69,7 @@ Node가 V8을 사용하여 JavaScript 코드를 실행하는 방법에 대해 �
 **스레드 풀** - 이벤트 루프는 NodeJS가 논블로킹 I/O모델을 통해 확장성을 제공할 수 있도록 합니다. 만약 Node API가 I/O 집약적이 아닌 CPU 집약적인 기능을 제공한다고 가정 해보겠습니다. 이벤트 루프가 도움이 될까요?? 물론이죠! libuv는 worker pool(I/O 및 CPU 집약적 작업을 모두 오프로딩하는 thread pool)이라는 thread pool을 사용합니다.
 
 ---
+
+NodeJS의 이벤트 루프에 대해서
+
+(Introduction to the event loop in Node.js)[https://developer.ibm.com/tutorials/learn-nodejs-the-event-loop/]
