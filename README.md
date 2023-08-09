@@ -2,7 +2,7 @@
 
 NodeJS는 크롬의 V8 JavaScript 엔진을 기반으로 만들어진 JavaScript 런타임입니다.
 
-<img src="/nodeJS_architecture.png"/>
+<img src="/nodeJS_image.png"/>
 
 ## Node Runtime
 
